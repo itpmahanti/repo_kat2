@@ -1,6 +1,7 @@
 This is a file called Sup
-And it is two lines long.
 
-cat >> sup.txt
-open sup.txt
-cat sup.txt
+
+And it is seven lines long.
+
+
+That ws line 4 talking. 

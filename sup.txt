@@ -4,4 +4,4 @@ This is a file called Sup
 And it is seven lines long.
 
 
-That ws line 4 talking. 
+That wAs line 4 talking. 

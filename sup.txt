@@ -1,0 +1,6 @@
+This is a file called Sup
+And it is two lines long.
+
+cat >> sup.txt
+open sup.txt
+cat sup.txt
